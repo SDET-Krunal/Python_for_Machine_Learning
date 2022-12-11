@@ -1,1 +1,7 @@
+
+# Folder path
 /.idea/
+
+
+# File extention
+*.npy
